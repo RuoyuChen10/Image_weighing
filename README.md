@@ -1,4 +1,4 @@
-# Image_weighing
+# Image Weighing
 
 This code is the original experimental setup and may be out of date, if you need a clearer implementation please contact me and I can provide a more recent version based on `Pytorch`.
 
