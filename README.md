@@ -12,6 +12,19 @@ Our approach is dedicated to achieving real-time image weighing.
 
 ![](./images/duck.gif)
 
+## 2. Environment
+
+We consider 2 environments, the first figure shows the work of this project, and the second figure is coming soon.
+
+<table border-left=none border-right=none><tr>
+<td width=50%><img src=images/data1.png border=none></td>
+<td width=50%><img src=images/data2.png border=none></td>
+</tr></table>
+
+## 3. The Dataset
+
+Please refer to [weight.xls](weight.xls) for labeling data. The images are included in fold [duck2](./duck2).
+
 ## Main 
 
 The main demo is `train_cov_choose_duck_no_background_or_feet.py`, you can try:
