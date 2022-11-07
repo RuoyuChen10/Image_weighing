@@ -25,7 +25,15 @@ We consider 2 environments, the first figure shows the work of this project, and
 
 Please refer to [weight.xls](weight.xls) for labeling data. The images are included in fold [duck2](./duck2).
 
-## Main 
+The statistics of the dataset are as follows:
+
+![](./images/Fig2.png)
+
+In the dataset, we remove the feet, because there are some noise, which will reduce the precise of the weight estimation results. A experiment is shown below:
+
+![](./images/FigA3.png)
+
+## 4. Reproduce the results 
 
 The main demo is `train_cov_choose_duck_no_background_or_feet.py`, you can try:
 
@@ -33,14 +41,14 @@ The main demo is `train_cov_choose_duck_no_background_or_feet.py`, you can try:
 python train_cov_choose_duck_no_background_or_feet.py
 ```
 
-to reproduce the results.
+to reproduce the results. The structure of the CNN is shown below:
 
-## Method
+![](./images/Fig3.png)
+
+## 5. Ablation Study
 
 The input is a single channel image, where we choose the R channel, as you can see:
 
-|B|G|R|
-|-|-|-|
-|![](./result_b.jpg)|![](./result_g.jpg)|![](./result_r.jpg)|
+![](./images/FigA1.png)
 
 R channel is salient for textual information, thus we choose the R channel.
