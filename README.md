@@ -55,4 +55,6 @@ R channel is salient for textual information, thus we choose the R channel.
 
 ## 6. Method Comparison
 
+We mainly compared two widely used method, pixel regression and ANN prediction.
+
 Please refer to [ablation_study](./ablation_study)
