@@ -45,7 +45,7 @@ to reproduce the results. The structure of the CNN is shown below:
 
 ![](./images/Fig3.png)
 
-## 5. Ablation Study
+## 5. Preproccessing
 
 The input is a single channel image, where we choose the R channel, as you can see:
 
