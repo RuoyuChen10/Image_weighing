@@ -52,3 +52,7 @@ The input is a single channel image, where we choose the R channel, as you can s
 ![](./images/FigA1.png)
 
 R channel is salient for textual information, thus we choose the R channel.
+
+## 6. Method Comparison
+
+Please refer to [ablation_study](./ablation_study)
