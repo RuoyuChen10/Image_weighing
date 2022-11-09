@@ -4,7 +4,7 @@ This code is the original experimental setup and may be out of date, if you need
 
 **Official Implementation of our Paper**
 
-Ruoyu Chen, Yuliang Zhao*, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Yongliang Yang, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, to apear.
+Ruoyu Chen, Yuliang Zhao*, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, to apear.
 
 ## 0. Environment
 
@@ -67,3 +67,18 @@ R channel is salient for textual information, thus we choose the R channel.
 We mainly compared two widely used method, pixel regression and ANN prediction.
 
 Please refer to [ablation_study](./ablation_study)
+
+
+## Acknowledgement
+
+```bibtex
+@article{chen2022online,
+  title={Online Estimating Weight of White Pekin Duck Carcass by Computer Vision},
+  author={Chen, Ruoyu and Zhao, Yuliang and Yang, Yongliang and Wang, Shuyu and Li, Lianjiang and Sha, Xiaopeng and Liu, Lianqing and Zhang, Guanglie and Li, Wen Jung},
+  journal={Poultry Science},
+  volume={},
+  number={},
+  pages={},
+  year={2022}
+}
+```
