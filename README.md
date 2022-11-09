@@ -6,6 +6,15 @@ This code is the original experimental setup and may be out of date, if you need
 
 Ruoyu Chen, Yuliang Zhao*, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Yongliang Yang, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, to apear.
 
+## 0. Environment
+
+```shell
+conda create -n ducknet python=3.7
+conda activate ducknet
+pip install tensorflow-gpu==1.15.0
+pip install opencv-python
+```
+
 ## 1. Visualization
 
 Our approach is dedicated to achieving real-time image weighing.
