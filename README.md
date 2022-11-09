@@ -1,5 +1,9 @@
 # Image Weighing
 
+![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
+![TensorFlow 1.15.5](https://img.shields.io/badge/tensorflow-1.15.5-green.svg?style=plastic)
+![License CC BY-NC](https://img.shields.io/badge/license-MIT-green.svg?style=plastic)
+
 This code is the original experimental setup and may be out of date, if you need a clearer implementation please contact me and I can provide a more recent version based on `Pytorch`.
 
 **Official Implementation of our Paper**
@@ -7,6 +11,8 @@ This code is the original experimental setup and may be out of date, if you need
 Ruoyu Chen, Yuliang Zhao*, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, to apear.
 
 ## 0. Environment
+
+`TensorFlow` version 1.x must relay on `Python<=3.7`
 
 ```shell
 conda create -n ducknet python=3.7
