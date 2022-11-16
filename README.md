@@ -46,7 +46,7 @@ The statistics of the dataset are as follows:
 
 In the dataset, we remove the feet, because there are some noise, which will reduce the precise of the weight estimation results. A experiment is shown below:
 
-![](./images/FigA3.png)
+![](./images/Fig7.png)
 
 ## 4. Reproduce the results 
 
