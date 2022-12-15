@@ -78,7 +78,7 @@ Please refer to [ablation_study](./ablation_study)
 ## Acknowledgement
 
 ```bibtex
-@article{chen2022online,
+@article{chen2023online,
   title={Online Estimating Weight of White Pekin Duck Carcass by Computer Vision},
   author={Chen, Ruoyu and Zhao, Yuliang and Yang, Yongliang and Wang, Shuyu and Li, Lianjiang and Sha, Xiaopeng and Liu, Lianqing and Zhang, Guanglie and Li, Wen Jung},
   journal={Poultry Science},
