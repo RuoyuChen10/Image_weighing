@@ -8,9 +8,7 @@ This code is the original experimental setup and may be out of date, if you need
 
 **Official Implementation of our Paper**
 
-Ruoyu Chen, Yuliang Zhao*, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, 102.2 (2020): 3379-3387.
-
-102 (2), 102348.
+Ruoyu Chen, Yuliang Zhao*, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, 102.2 (2023): 102348.
 
 ## 0. Environment
 
