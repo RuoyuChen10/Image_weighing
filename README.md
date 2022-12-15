@@ -8,7 +8,9 @@ This code is the original experimental setup and may be out of date, if you need
 
 **Official Implementation of our Paper**
 
-Ruoyu Chen, Yuliang Zhao*, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, to apear.
+Ruoyu Chen, Yuliang Zhao*, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang, and Wen Jung Li. “Online Estimating Weight of White Pekin Duck Carcass by Computer Vision”, *Poultry Science*, 102.2 (2020): 3379-3387.
+
+102 (2), 102348.
 
 ## 0. Environment
 
@@ -82,9 +84,11 @@ Please refer to [ablation_study](./ablation_study)
   title={Online Estimating Weight of White Pekin Duck Carcass by Computer Vision},
   author={Chen, Ruoyu and Zhao, Yuliang and Yang, Yongliang and Wang, Shuyu and Li, Lianjiang and Sha, Xiaopeng and Liu, Lianqing and Zhang, Guanglie and Li, Wen Jung},
   journal={Poultry Science},
-  volume={},
-  number={},
-  pages={},
-  year={2022}
+  volume={102},
+  number={2},
+  pages={102348},
+  year={2023},
+  issn = {0032-5791},
+  doi = {https://doi.org/10.1016/j.psj.2022.102348}
 }
 ```
